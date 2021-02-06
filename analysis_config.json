@@ -73,6 +73,7 @@
             "value_or_threshold": [40]            
         }
     ],
+    "group_variable": "A151",
     "methods": {
         "pre_training_bias": {
             "methods": "all"
